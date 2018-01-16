@@ -1,3 +1,5 @@
+
+lovefield 是建立在 IndexedDB 上的关系查询引擎。它提供了类似 SQL 的语法，并且可以跨浏览器工作（目前支持 Chrome 37 及以上版本，Firefox 31 及以上版本，IE 10 及以上版本）
 # Lovefield
 
 [![Build Status](https://travis-ci.org/google/lovefield.svg?branch=master)](
